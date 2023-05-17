@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"glsl-canvas.textures": {
+			"0": "./images/brownTexture.png",
+			"1": "https://rawgit.com/actarian/plausible-brdf-shader/master/textures/noise/cloud-1.png",
+		}
+	}
+}
+
+
+
